@@ -348,10 +348,10 @@ return [i for i in interactions if i.item_id == item_id]
 
 ## 2. Acceptance criteria
 
-- [ ] Issue has the correct title.
-- [ ] All unit tests pass.
-- [ ] All end-to-end tests pass.
-- [ ] AI-generated tests include at least two kept tests and at least one discarded test.
-- [ ] The Part A fix and Part B fix are separate commits.
-- [ ] PR is approved.
-- [ ] PR is merged.
+- [x] Issue has the correct title.
+- [x] All unit tests pass.
+- [x] All end-to-end tests pass.
+- [x] AI-generated tests include at least two kept tests and at least one discarded test.
+- [x] The Part A fix and Part B fix are separate commits.
+- [x] PR is approved.
+- [x] PR is merged.
