@@ -205,9 +205,9 @@ Title: `[Task] Add Front-end`
 
 ## 2. Acceptance criteria
 
-- [ ] Issue has the correct title.
-- [ ] The front-end runs locally with `npm run dev`.
-- [ ] The production build is deployed on the VM and served by `Caddy`.
-- [ ] The `description` column appears in the data table in both the dev and production builds.
-- [ ] PR is approved.
-- [ ] PR is merged.
+- [x] Issue has the correct title.
+- [x] The front-end runs locally with `npm run dev`.
+- [x] The production build is deployed on the VM and served by `Caddy`.
+- [x] The `description` column appears in the data table in both the dev and production builds.
+- [x] PR is approved.
+- [x] PR is merged.
