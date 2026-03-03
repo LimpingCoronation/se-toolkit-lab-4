@@ -7,7 +7,7 @@ interface Item {
   id: number
   type: string
   title: string
-  kind: string
+  description: string
   created_at: string
 }
 
@@ -104,7 +104,7 @@ function App() {
                 <td>{item.id}</td>
                 <td>{item.type}</td>
                 <td>{item.title}</td>
-                <td>{item.kind}</td>
+                <td>{item.description}</td>
                 <td>{item.created_at}</td>
               </tr>
             ))}
